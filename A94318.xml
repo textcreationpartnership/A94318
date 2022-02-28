@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth from Ireland exprest in two letters. The one from the city of Dublin, the other from Tredah, to a gentleman of good quality in the City of London. Relating the condition of Dublin, Vlster, Wexford, and Waterford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94318</idno>
+            <idno type="STC">Wing T11</idno>
+            <idno type="STC">Thomason E99_12</idno>
+            <idno type="STC">ESTC R20325</idno>
+            <idno type="EEBO-CITATION">99863272</idno>
+            <idno type="PROQUEST">99863272</idno>
+            <idno type="VID">155840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155840)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth from Ireland exprest in two letters. The one from the city of Dublin, the other from Tredah, to a gentleman of good quality in the City of London. Relating the condition of Dublin, Vlster, Wexford, and Waterford.</title>
+                  <author>G. T.</author>
+                  <author>E. W.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Aprill 22. Printed for Iohn Wright, in the Old-Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First letter signed: G. T.</note>
+                  <note>Second letter signed: E. W.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155840:1"/>
+            <pb facs="tcp:155840:1" rendition="simple:additions"/>
+            <p> TRVTH FROM IRELAND. Expreſt in two Letters.</p>
+            <p>The one from the City of Dublin, the other from <hi>Tredah,</hi> to a Gentleman of good Quality in the City of LONDON.</p>
+            <p>Relating the condition of Dublin, Vl<g ref="char:EOLhyphen"/>ſter, Wexford, and Waterford.</p>
+            <p>LONDON: Aprill 22. Printed for <hi>Iohn Wright,</hi> in the Old-Bailey. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155840:2"/>
+            <pb facs="tcp:155840:2"/>
+            <head>From DUBLIN, March 27. 1643.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His day our Army is returned with a moſt glorious Victory, which God (beyond mans expectation) did give them in the County of <hi>Wexford</hi> upon the 18. of this moneth, which though my ſelfe and others had a particular loſſe in it, by the death of my Cozen <hi>Alexander Burrowes,</hi> who ſince dyed of ſome wounds then received, yet (in the generall) was the moſt conſiderableſt day that we had in this Province ſince the Rebellion. Our deſigne being at firſt to take in <hi>Wexford,</hi> &amp; <hi>Roſſe,</hi> my Lord Marqueſſe did martch forth hence, with 3000. Foot, and about 1000. Horſe, 7. peeces of Ordnance, whereof two were for Battery, and tooke in by the way ſome garriſons man'd by the Rebells, as <hi>Caſtle-martin, Kildare, Tully, Moone, Colbinſtowne,</hi> and <hi>Ballynourg<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> which were delivered up upon quarter (but their Armes) which wee had in every place; And alſo <hi>Tynollin</hi> which wee got perforce, wherein were 510. perſons put to the Sword, whereof there were 14. Gentlemen of the Archboulds; Our men having martch'd ſafe<g ref="char:EOLhyphen"/>ly to the County of <hi>Wexford,</hi> they came before
+<pb facs="tcp:155840:3" rendition="simple:additions"/> 
+               <hi>Roſse.</hi> Upon the 11. of this moneth, at which time there were not above 200. within to man the Towne, but before Monday night there were a<g ref="char:EOLhyphen"/>bove 2000. put in, which by reaſon of the open Bay towards <hi>Waterford</hi> and <hi>Kilkenny,</hi> and for want of Shipping or Boates, we could not prevent. And upon munday our Ordnance made a large breach on the Walls, that twenty might martch in front, and our men having entred, were (to give the Divell his due) manfully repulſed, and beaten backe twice, to the loſſe of 16. of our common Souldiers, in which attempt two of our <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Maiors were hurt, but not mortally, by name <hi>Morris</hi> and <hi>Hamond:</hi> from Monday untill Friday they continued the Siege, expecting hourely a ſupply of Ammunition, and Victuals, that was to come to them from hence by Sea; which failing them, by reaſon of the contrary winds, they were inforced to rayſe their Siege, and to martch homewards, and that night encamped within three miles of <hi>Roſſe,</hi> and the next day being Saturday, the 18, the Enemy gave us Battaile, at a place cal<g ref="char:EOLhyphen"/>led <hi>Ball<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aggy,</hi> where we had the vantage of the Sun, and the wind, yet they being over confident by reaſon of their numbers, which were gathered from all parts of the Kingdome, amounting to 8000, Foot, and 700. Horſe, admirably well ar<g ref="char:EOLhyphen"/>med, and mounted, being their moſt reſolute and beſt, men did ſet upon us in that place, thinking to cut off every mothers ſon of us, and to give quar<g ref="char:EOLhyphen"/>ter to none except my Lord Marqueſſe himſelf, &amp;
+<pb facs="tcp:155840:3"/> ſo to march to <hi>Dublin,</hi> and to make an end of theſe Warres, as ſome of their owne Priſoners have ſince confeſſed, and to ſay truely of them, it is confeſſed of all ſides, that upon the firſt charge, their Horſes put ours to the worſt, but our Foot wherein my Lord Marqueſſe himſelfe was in the head, and our Ordnance did performe their parts ſo gallantly, that after halfe an houres fight (du<g ref="char:EOLhyphen"/>ring which time the day was very doubtfull) the Rebells were routed and put to flight, there Ge<g ref="char:EOLhyphen"/>nerall <hi>Preſton</hi> with moſt of his men made all the ſpeed he could, to a wooden bridge neere Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Butlers</hi> houſe, where having got over, broke downe the Bridge, fearing that ours would follow him to <hi>Kilkenny,</hi> but it is moſt certaine, that hee loſt 300. of his beſt and eminenteſt Comman<g ref="char:EOLhyphen"/>ders which were ſtaine or taken Priſoners, beſides a great number of others that had no command, (together with 16. Barrels of Powder, and great ſtore of Bullet and March) inſomuch that ſome who ſaw them dead and knew them well, doe af<g ref="char:EOLhyphen"/>firme that none of any quality in the Counties of <hi>Kilkenny, Wexford, Wickle,</hi> or <hi>C<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> but have loſt either a ſon or a brother, and for ſuch as I could informe my ſelfe of, I have ſent you a Liſt of their Names: Thus you ſee how God doth ſtill miraculouſly preſerve us, I pray Heaven to make us truely thankfull unto him: much more might be done, if wee had but more men to make good them places that would be gotten in,
+<pb facs="tcp:155840:4"/> which now we cannot doe for feare of weakning of our Army.</p>
+            <closer>
+               <signed>So I reſt, yours <hi>G. T.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="lists_of_prisoners_and_slain">
+            <list>
+               <head>Priſoners taken.</head>
+               <item>Lieutenant Generall Cullen.</item>
+               <item>Serjeant Major Butler.</item>
+               <item>Capt. Butler, brother to the ſaid Major.</item>
+               <item>Capt. Walter Butler.</item>
+               <item>Capt. Gerr. Fitz Gerrald.</item>
+               <item>Capt. Nugent.</item>
+               <item>Capt. Edward Butler.</item>
+               <item>Capt. Edward M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſterſon.</item>
+               <item>Capt. Anthony Kavenagh.</item>
+               <item>Capt. John Rooth.</item>
+               <item>Capt. Synnot.</item>
+            </list>
+            <list>
+               <head>Officers Slaine.</head>
+               <item>Sir Morgan Kavenagh.</item>
+               <item>Capt. Bryan.</item>
+               <item>Capt. Fitz Gerrald.</item>
+               <item>Lieutenant Colonell Brown of Malrankan.</item>
+               <item>Capt. Tibbot Butler.</item>
+               <item>Colonell Edward Butlerſon to Sir Richard Butler.</item>
+               <item>Capt. Edward Butler of Tullo.</item>
+               <item>Capt. Skurlocke.</item>
+               <item>Serjeant Major Bagnall.</item>
+               <item>Capt. Beverly Britten.</item>
+               <item>Capt. Donagh O Brive.</item>
+               <item>Capt. Barry.</item>
+               <item>Capt. Hugh oge O Bryan of the Duffery.</item>
+            </list>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:155840:4"/>
+            <head>From TREDAH, April, 8. 1643.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>ABout three weekes ſince, the Lord <hi>Moore,</hi> and Sir <hi>Henry Titchborne,</hi> marched from <hi>Tredah,</hi> with one thouſand foote, and one hundred and fifty Horſe, (ſome of either being borrowed from <hi>Dundalk,</hi> and other garriſons) in<g ref="char:EOLhyphen"/>to the County of <hi>Cavon,</hi> in that Towne they met with no manner of oppoſition, but found great plenty of proviſions, all the Rebells having for<g ref="char:EOLhyphen"/>ſaken it, from thence they martched to <hi>Belturbat,</hi> and in their way thither, they were to paſſe two ſtreights, or paces, which were appointed by the Rebells to be mann'd with foure hundred in ei<g ref="char:EOLhyphen"/>ther, in one of them they fought with them, but our Army beate them out of their Trenches, and Works, and tooke Priſoners one of the prime of the <hi>O Rel<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es<g ref="char:punc">▪</g>
+               </hi> who commanded in chiefe when we loſt our ſix hundred Men, and Armes, at the firſt going to <hi>Tredah,</hi> the ſaid <hi>O Relyes</hi> Sonne, and divers of that name, and ſect, and others ta<g ref="char:EOLhyphen"/>ken priſoners, and kil'd.</p>
+            <p>In the prime <hi>O Relyes</hi> pocket, was found a let<g ref="char:EOLhyphen"/>ter written by the Lord of <hi>Gormonſton,</hi> (during the time of the late Treaty of <hi>Trim)</hi> directed to
+<pb facs="tcp:155840:5"/> 
+               <hi>Owen Roe, O Neale,</hi> Generall of the <hi>Vlſter</hi> Forces, and to this <hi>O Relye,</hi> wherein he adviſed them to make all the ſtrength they poſſible could for the taking in of all the Engliſh Garriſons, preſuming that they were very much weakned, by my Lord <hi>Marqueſſe</hi> of <hi>Ormonds</hi> going abroad with ſo great an Army.</p>
+            <p>In an Iſland belonging to <hi>Verginia</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Gavan,</hi> they found the Earle of <hi>Tingalls</hi> eldeſt Sonne, and Daughter, and brought them, and o<g ref="char:EOLhyphen"/>ther Priſoners away with them.</p>
+            <p>They tooke about three thouſand Cows, but they were ſo weake, that they could bring with them to <hi>Tredath</hi> but ſeven or eight hundred.</p>
+            <p>In their returne to <hi>Tredah, Owen Roe, O Neale,</hi> advanced with three thouſand men, and came within ſeven miles of them, but came no neerer, ſo as all our men returned ſafe home and <hi>O Neale</hi> and his Forces, gon back into the North.</p>
+            <closer>
+               <signed>Yours E. W.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
